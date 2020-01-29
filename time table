@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>TIME TABLE</title>
+</head>
+
+<body>
+<table border="1" cell padding="5" cell spacing="6">
+
+<tr>
+<th>1</TH>
+<th>2</TH>
+<th></TH>
+<th>3</TH>
+<th>4</TH>
+<th>5</TH>
+<th>6</TH>
+<th>7</TH>
+</TR>
+
+
+<tr>
+<th>09:00AM-09:55AM</TH>
+<th>10:00AM-10:55AM</TH>
+<th>10:55AM-11:15AM</TH>
+<th>11:15AM-12:10PM</TH>
+<th>12:15PM-01:10PM</TH>
+<th>01:10PM-02:05PM</TH>
+<th>02:05PM-03:00PM</TH>
+<th>03:05PM-04:00PM</TH>
+</TR>
