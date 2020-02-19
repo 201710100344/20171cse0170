@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>HTML Iframes</title>
+</head>
+<body>
+<p>Document content goes here.Iframe can include in body tag.Any web link or html page link can be loaded in iframe.
+</p>
+<iframe src="/home/6cse3/resume"width="200"height="250">    Sorry not support inline</iframe>
+
+<p>doc content also go here..</p>
+
+
+<iframe src="/home/6cse3/resume" name="iframe_a"></iframe>
+
+<p><a href="http://www.presidencyuniversity.com"target="iframe_a">LOAD NEW WEB PAGE 
+
+
