@@ -1,19 +1,30 @@
 <html>
 <head>
+<link rel="stylesheet"type="text/css"href="/home/6CSE3/20171cse0170/mystyle.css"/>
+<title>MY CV</title>
 <center><h1>SUDHEERKUMAR</h1></center>
 <hr size=3></hr>
 <center>bangalore-7981269067-chintasudheerkumar1998@gmail.com</center>
 </head>
 
-<body bgcolor="green">
 
-<div>
+<body bgcolor="lightblue">
+<a href="www.amazon.com" class="cls">here</a>
+<a href="D:/CSE 256 IT/HTML/table span.html">my time table
+<a href=#edu> My education</a> <br/>
+<a href="chintasudheerkumar1998@gmail.com">sent email</a>
+
+<div align="center">
+<img alt="image" border="3" height="200" width="200" src= "/home/6CSE3/Downloads/2019-12-062.jpg"/>
+</div>
+
+<div style="background-color:blue">
 <b><h3>PROFESSIONAL SUMMARY</h3></b>
-<p>This is a resume summary statement that was for  a candidate returning to work after having her own business for 15+ years. Because of this, we needed to emphasize her soft skills and what she can bring to this potential position. In addition, we highlighted the skills she has honed as a business owner so that she can utilize these qualifications as a sales professional, account manager, and someone knowledgeable about nutrition, medicine, and the overall sales process.</p>
+<p id="parag">This is a resume summary statement that was for  a candidate returning to work after having her own business for 15+ years. Because of this, we needed to emphasize her soft skills and what she can bring to this potential position. In addition, we highlighted the skills she has honed as a business owner so that she can utilize these qualifications as a sales professional, account manager, and someone knowledgeable about nutrition, medicine, and the overall sales process.</p>
 </div>
 
 
-<div>
+<div class="cls">
 <b><h3>WORK HISTORY</h3></b>
 <p><b>Senior Merchandizer</b>,10/2016 to current </br><b>Hallmark</b>-bangalore,bk
 <ul type="disk">
@@ -59,6 +70,11 @@
 <li>cmr</li>
 </ul>
 </div>
+
+<a href="#para">here</a>
+</body>
+</html>
+
 
 
 
